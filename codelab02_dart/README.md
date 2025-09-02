@@ -106,7 +106,6 @@ Jika ingin mengizinkan variabel bernilai `null`, gunakan tanda **`?`** setelah t
 ![kode null safety](img/nullCode.png)
 
 #### **Output:**
-![Jawaban soal 1](img/soal1.png)
 ![Output kode null](img/nullOutput.png)
 
 ### **B. Late Variable**

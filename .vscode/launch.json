@@ -9,7 +9,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "codelab04_dart/src/main.dart"
+            "program": "codelab05_dart/src/hello_world/lib/main.dart"
         }
     ]
 }
